@@ -6,7 +6,7 @@
 2. 本套件提供X、Y、Z、A、B、C、U、V、W軸向未加小數點檢測功能。
 3. 顏色由淺至深代表其重要性，「紅色」處為必須特別注意處，如：缺少小數點。
 
-[中文影片範例](https://www.ehosei.com/gcode-quick-editing)說明程式簡寫及高亮等設定方式。  
+[中文影片範例](https://www.ehosei.com/lathe-quick-editing)說明程式簡寫及高亮等設定方式。  
 
 ## 使用命令
 簡寫命令| 命令意義 |
